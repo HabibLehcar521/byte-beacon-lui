@@ -1,0 +1,26 @@
+{
+  "name": "byte-beacon-lui",
+  "description": "byte-beacon-lui",
+  "version": "0.0.2",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/HabibLehcar521",
+  "repository": {
+    "url": "https://github.com/HabibLehcar521/byte-beacon-lui"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "byte",
+    "beacon",
+    "project"
+  ],
+  "author": "FerreiraIvana926",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3"
+  }
+}
